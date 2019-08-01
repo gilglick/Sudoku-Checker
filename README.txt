@@ -1,10 +1,7 @@
-Name: Gil Glick			ID: 206128712
-Name: Gal Shashua		ID: 315878397
-Name: Melany Cygiel Gdud 	ID: 324442243
+עבודת הגשה במערכות הפעלה 
 
-לרועי,
-יש makefile שכתבנו , התוכנית עובדת גם דרך הטרמינל וגם דרך האקליפס (בתנאי שמבטלים את הmakefile הדיפולטיבי). 
-במהלך התרגיל בדקנו שהכל עובד,
-אם במקרה ישנה בעיה בהרצה מוזמן לפנות אלינו :).
-
-אוהבים.
+Q1 - pipes
+Q1b - mdq
+Q2 - mmap
+Q3 - threads & busy-waiting
+Q4 - threads & locks & condintions
